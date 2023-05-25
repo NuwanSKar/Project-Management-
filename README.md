@@ -18,7 +18,7 @@ V.	Get all past and present projects separately
 VI.	Update project & project breakdown status 
 
 
-Technologies used in the project
+#Technologies used in the project
 
 •	Java 
 •	Spring Boot
